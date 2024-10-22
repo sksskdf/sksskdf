@@ -1,8 +1,5 @@
 ## 👋
 
-- 🔭 I’m currently working on study
-- 🌱 I’m currently learning on github education
-
 <!--
 **sksskdf/sksskdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
